@@ -1,0 +1,55 @@
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    border: none;
+    outline: none;
+}
+
+// :root {
+//     --white: #fff;
+//     --black: #000;
+//     --white-light: rgba(255, 255, 255, .9);
+//     --light-gray: #A9A9A9;
+//     --darkgray: rgb(114, 109, 109);
+//     --phone-color: rgb(53, 55, 108);
+//     --gray: rgb(50, 44, 44);
+//     --blek:rgba(22, 22, 23, .8);
+
+// }
+
+::selection {
+    background-color: rgb(121, 135, 202);
+    color: var(--white);
+}
+
+
+// <uniquifier>: Use a unique and descriptive class name
+// <weight>: Use a value from 400 to 700
+
+// <uniquifier>: Use a unique and descriptive class name
+// <weight>: Use a value from 400 to 700
+
+// #root{
+//     font-family: "Dancing Script", cursive;
+//     font-optical-sizing: auto;
+//     // font-weight: 400;
+//     // font-style: normal;
+  
+
+//   }
+
+  body {
+    background-color: #f5f5f5;
+    // font-family: "Dancing Script", cursive;
+    // font-optical-sizing: auto;
+  }

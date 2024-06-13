@@ -1,0 +1,96 @@
+
+// .Slider{
+//     width: 100%;
+//     height: 100vh;
+
+//     .slide{
+//         opacity: 0;
+//         width: 100%;
+//         height: 100vh;
+//         position: absolute;
+//         text-align: center;
+//         display: flex;
+//         justify-content: center;
+//         align-items: center;
+//         flex-direction: column;
+
+//         background-size: cover;
+//         background-repeat: no-repeat;
+//         background-position: center;
+        
+//         &.active{
+//             opacity: 1;
+//         }
+
+//         .title{
+//             width: 65rem;
+//             font-size: 5rem;
+//             font-weight: bold;
+//             text-shadow: .2rem .3rem 1rem;
+//             // color: $slider_title_color;
+//             z-index: 2;
+//         }
+
+//         .btn{
+//             padding: .5rem 5rem;
+//             cursor: pointer;
+//             background: orange;
+//             z-index: 2;
+//         }
+
+//     }
+
+//     .btn-slide{
+//         width: 60px;
+//         height: 60px;position: absolute;
+//         top: 50%;
+//         color: red;
+//         z-index: 2;
+//         background: none;
+//         border-radius: 50%;
+//         border: .2rem solid black;
+//         cursor: pointer;
+
+
+//         &.prev{
+//             left: 2rem;
+//         }
+
+//         &.next{
+//             right: 2rem;
+//         }
+
+//     }
+
+//     .container-circle{
+//         display: flex;
+//         position: absolute;
+//         bottom: 2rem;
+//         left: 50%;
+//         transform: translateX(-50%);
+//         z-index: 2;
+
+//         .circle{
+//             width: 1rem;
+//             height: 1rem;
+//             border-radius: 50%;
+//             cursor: pointer;
+//             background: gray;
+//             margin: .2rem;
+//             &.active{
+//                 background: white;
+//             }
+//         }
+//     }
+
+//     .layer{
+//         position: absolute;
+//         top: 0; right: 0;
+//         bottom: 0; left: 0;
+//         background-color: rgba(0, 0, 0, 0.5);
+//         z-index: 1;
+//     }
+
+// }
+
+
