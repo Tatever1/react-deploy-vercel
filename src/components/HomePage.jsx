@@ -20,8 +20,12 @@ export  function HomePage() {
           </div> */}
 
 
-      <div className=' w-full h-[100vh] bg-center bg-no-repeat bg-cover mx-auto  bg-fixed opacity-90'
-        style={{backgroundImage: `url('${process.env.PUBLIC_URL + '/images/ourphoto.jpg'}')`}} >
+      <div className='w-full h-[100vh] bg-center bg-no-repeat bg-cover mx-auto opacity-90'
+        style={{backgroundImage: `url('${process.env.PUBLIC_URL + '/images/ourphoto2.jpg'}')`}} 
+        >
+
+            {/* <img src="images/ourphoto.jpg" alt="alt" className=' w-full h-[100vh] bg-center bg-no-repeat bg-cover mx-auto opacity-90 absolute' /> */}
+
           <div className=' flex justify-center items-center flex-col relative z-10 gap-6 top-2/3'>   
           <div className=' text-azure text-center text-xl sm:text-2xl md:text-3xl  lg:text-5xl '>Գրիգոր և Տաթև</div>  
           <p className=' text-center text-azure italic text-xs sm:text-sm md:text-sm lg:text-2xl   '>Հարսանյաց հրավեր</p>
@@ -30,10 +34,14 @@ export  function HomePage() {
           </div>     
           </div>
         </div>
+
+
             <Countdown ref = {ref} text = 'Հուլիս 28, 2024 '/>
       </div>
       )
 }
+
+
 
 
 
