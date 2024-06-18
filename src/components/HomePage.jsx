@@ -15,7 +15,7 @@ export  function HomePage() {
       };
   return ( <div className=' HomePage'>
       <div className=' w-full h-[100vh] bg-center bg-no-repeat bg-cover  mx-auto opacity-90 sm:bg-local md:bg-local lg:bg-fixed'
-        style={{backgroundImage: `url('${process.env.PUBLIC_URL + '/images/ourphoto2.jpg'}')`}} 
+        style={{backgroundImage: `url('${process.env.PUBLIC_URL + '/images/ourphoto.jpg'}')`}} 
         >
           <div className=' flex justify-center items-center flex-col relative z-10 gap-6 top-2/3'>   
           <div className=' text-azure text-center text-xl sm:text-2xl md:text-3xl  lg:text-5xl '>Գրիգոր և Տաթև</div>  
