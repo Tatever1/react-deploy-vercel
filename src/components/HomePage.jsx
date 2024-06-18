@@ -14,7 +14,7 @@ export  function HomePage() {
     ref.current?.scrollIntoView({behavior: 'smooth'});
       };
   return ( <div className=' HomePage'>
-      <div className=' w-full h-[100vh] bg-center bg-no-repeat bg-cover bg-fixed mx-auto opacity-90 '
+      <div className=' w-full h-[100vh] bg-center bg-no-repeat bg-cover  mx-auto opacity-90 lg:bg-fixed'
         style={{backgroundImage: `url('${process.env.PUBLIC_URL + '/images/ourphoto2.jpg'}')`}} 
         >
           <div className=' flex justify-center items-center flex-col relative z-10 gap-6 top-2/3'>   
