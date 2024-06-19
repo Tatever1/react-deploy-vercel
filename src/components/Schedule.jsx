@@ -21,7 +21,7 @@ export function Schedule() {
                 <h3 class=" text-base font-normal break-words uppercase italic mb-6 ">Զագսի արարողություն</h3>
                 <p class=" text-lg  text-gray">Ժամը 12:00 - ին</p>
                 <p class="text-gray">Ծովածոց</p>
-                <p class="text-gray">Չկալովկա, Իսրայելյան փող., 21</p>
+                <p class="text-gray">Չկալովկա Իսրայելյան փող. 21</p>
                 <div className='  mt-4 text-md cursor-pointer font-light border-t-[1px] border-b-[1px] border-solid border-r-0  border-l-0 text-center text-[#D8A487] rounded-full  py-2 border-[#D8A487]'>
                   <Link to="https://www.google.com/maps/place/Hotel+and+Teahouse+Bashinjaghyan/@40.5090175,44.9702004,14.56z/data=!4m9!3m8!1s0x404040fbbba99009:0x7ddfbab65385af7c!5m2!4m1!1i2!8m2!3d40.511444!4d44.985902!16s%2Fg%2F11bbwnwcpn?hl=en-US&entry=ttu" > Դիտել քարտեզում </Link>
                 </div>
@@ -68,7 +68,7 @@ export function Schedule() {
 
               <p class=" text-lg text-gray">Ժամը 17:00 - ին</p>
               <p class="text-gray">Սաֆարի Հոլլ</p>
-              <p class="text-gray">ք․ Չարենցավան, Կարեն Դեմիրճյան հրապարակ 3</p>
+              <p class="text-gray">ք․ Չարենցավան Կարեն Դեմիրճյան հրապարակ 3</p>
 
               <div className=' mt-4 text-md cursor-pointer font-light border-t-[1px] border-b-[1px] border-solid border-r-0  border-l-0 text-center text-[#D8A487] rounded-full  py-2 border-[#D8A487]'>
                   <Link to="https://www.google.com/maps/place/Safari+Hall/@40.4034429,44.6470537,19.25z/data=!4m6!3m5!1s0x404025013eb24ee3:0x29c15ce0b0679667!8m2!3d40.4034252!4d44.647551!16s%2Fg%2F11kj_lcg1c?entry=ttu"> Դիտել քարտեզում </Link>
