@@ -41,7 +41,7 @@ export function Schedule() {
         <div class="text-center md:text-right px-8 md:px-10 float-left m-0 w-full md:w-1/2 box-border mt-4 md:mt-0">
           <span class="hidden md:block bg-white border-2 rounded-full h-4 absolute left-1/2 -ml-[0.50rem] top-0 w-4 box-content border-white"></span>
           <h3 class=" text-base font-normal break-words uppercase italic mb-6">Պսակի արարողություն</h3>
-          <p class=" text-lg text-gray">Ժամը 14:30 - ին</p><p class="text-gray">Հայրավանք եկեղեցի</p><p class="text-gray">Գեղարքունիք գ․ Հայրվանաք</p>
+          <p class=" text-lg text-gray">Ժամը 14:30 - ին</p><p class="text-gray">Հայրավանք եկեղեցի</p><p class="text-gray">Գեղարքունիք գ․ Հայրավանք</p>
           <div className=' mt-4  text-md cursor-pointer font-light border-t-[1px] border-b-[1px] border-solid border-r-0  border-l-0 text-center text-[#D8A487] rounded-full  py-2 border-[#D8A487] lg:w-[80%] lg:ml-16 md:ml-16 md:w-[80%] sm:align-middle sm:w-full '>
                   <Link to="https://www.google.com/maps/place/Hayravank+Monastery/@40.4327142,45.1055629,17z/data=!3m1!4b1!4m6!3m5!1s0x40406d545d002f2f:0x9ab481d4254f0fe!8m2!3d40.4327101!4d45.1081378!16s%2Fm%2F056gvsl?entry=ttu"> Դիտել քարտեզում </Link>
           </div>
